@@ -1,4 +1,3 @@
-# vue2.x_ts_hm_demo
 
 ## Project setup
 ```
